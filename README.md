@@ -2,6 +2,8 @@
 
 A comprehensive system to visualize relationships between users, companies, and transactions using graph database technology. This tool helps identify connections and patterns in financial transactions and business relationships.
 
+![Graph Visualization Example](graph-export.png)
+*Example visualization showing relationships between users, companies, and transactions*
 
 ## Features
 
